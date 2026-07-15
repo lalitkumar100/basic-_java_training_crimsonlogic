@@ -1,4 +1,4 @@
-package com.crimsonlogic.lamda;
+package com.crimsonlogic.lamda.utility;
 
 import com.crimsonlogic.lamda.math_calculator.BonusCalculatorIMP;
 import com.crimsonlogic.lamda.math_calculator.CalculatorIMPL;

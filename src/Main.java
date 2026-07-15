@@ -1,4 +1,4 @@
-import com.crimsonlogic.lamda.ApplicationMenu;
+import com.crimsonlogic.lamda.utility.ApplicationMenu;
 
 public class Main {
 
