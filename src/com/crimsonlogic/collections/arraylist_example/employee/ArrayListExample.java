@@ -1,4 +1,4 @@
-package com.crimsonlogic.collections;
+package com.crimsonlogic.collections.arraylist_example.employee;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,11 +1,11 @@
-import com.crimsonlogic.collections.uerdefinedobjects.CargoShipNotFoundException;
-import com.crimsonlogic.lamda.utility.ApplicationMenu;
-import com.crimsonlogic.collections.CollectionsHelper;
+import com.crimsonlogic.collections.arraylist_example.cargo.CargoShipNotFoundException;
+import com.crimsonlogic.collections.hashsetexample.product.PrdouctOperations;
+
 public class Main {
 
     public static void main(String[] args) throws CargoShipNotFoundException {
         System.out.println();
-        CollectionsHelper c = new CollectionsHelper();
+        PrdouctOperations c = new PrdouctOperations();
         c.helper();
     }
 }
