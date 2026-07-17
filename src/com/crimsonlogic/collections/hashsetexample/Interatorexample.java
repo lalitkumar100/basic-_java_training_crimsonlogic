@@ -20,7 +20,7 @@ public class Interatorexample {
         }
     }
     void search(){
-        System.out.print("enter the eleemnt you want to search:");
+        System.out.print("enter the element you want to search:");
         String  depart = sc.next();
         String ans = set.contains(depart) ?"found "+depart : "not found";
         System.out.println(ans);
@@ -50,12 +50,12 @@ Enter your choice:
                         search();
                         break;
                     default:
-                        System.out.println("what fuck is this \n i am exit it you fuck bitch");
+                        System.out.println("exit the code");
                         exit(0);
                 }
             }
             catch (InputMismatchException e){
-                System.out.println("wrong in type of input enter nuber please");
+                System.out.println("wrong in type of input enter number please");
                 sc.nextLine();
             }
 
